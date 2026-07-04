@@ -1,0 +1,7 @@
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\obj\Debug\Libreria y Bazar.csproj.AssemblyReference.cache
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\obj\Debug\Libreria y Bazar.csproj.CoreCompileInputs.cache
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\bin\Debug\Libreria y Bazar.exe.config
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\bin\Debug\Libreria y Bazar.exe
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\bin\Debug\Libreria y Bazar.pdb
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\obj\Debug\Libreria y Bazar.exe
+B:\Fundamentos de Programacion\Libreria y Bazar\Libreria y Bazar\obj\Debug\Libreria y Bazar.pdb
